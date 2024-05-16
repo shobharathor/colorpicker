@@ -1,0 +1,28 @@
+.color-card{
+    box-shadow: 0 0 4px 4px #a7a7a7;
+}
+
+.color{
+    height: 120px;
+}
+
+.details{
+    padding: 0.625rem;
+}
+
+.code{
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.code:hover{
+    text-decoration: underline;
+    opacity: 0.8;
+}
+
+.names{
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: bold;
+}
